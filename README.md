@@ -34,10 +34,10 @@ This app aims to resolve queries by anyone in the organisation and let members c
 <p>
   <img src="https://github.com/Maahi10001/Ask-SCoRE-community-app-REACT-NATIVE-/blob/master/working%20screen%20shots/intro%201.png" width="250">
   <img src="https://github.com/Maahi10001/Ask-SCoRE-community-app-REACT-NATIVE-/blob/master/working%20screen%20shots/intro%202.png" width="250">
-  <img src="https://github.com/Maahi10001/Ask-SCoRE-community-app-REACT-NATIVE-/blob/master/working%20screen%20shots/intro%203.png" width="250">
   <img src="https://github.com/Maahi10001/Ask-SCoRE-community-app-REACT-NATIVE-/blob/master/working%20screen%20shots/intro%204.png" width="250">
-  <img src="https://github.com/Maahi10001/Ask-SCoRE-community-app-REACT-NATIVE-/blob/master/working%20screen%20shots/signup.png" width="250">
+  <img src="https://github.com/Maahi10001/Ask-SCoRE-community-app-REACT-NATIVE-/blob/master/working%20screen%20shots/intro%203.png" width="250">
   <img src="https://github.com/Maahi10001/Ask-SCoRE-community-app-REACT-NATIVE-/blob/master/working%20screen%20shots/login.png" width="250">
+  <img src="https://github.com/Maahi10001/Ask-SCoRE-community-app-REACT-NATIVE-/blob/master/working%20screen%20shots/signup.png" width="250">
   <img src="https://github.com/Maahi10001/Ask-SCoRE-community-app-REACT-NATIVE-/blob/master/working%20screen%20shots/community.png" width="250">
   <img src="https://github.com/Maahi10001/Ask-SCoRE-community-app-REACT-NATIVE-/blob/master/working%20screen%20shots/forums.png" width="250">
   <img src="https://github.com/Maahi10001/Ask-SCoRE-community-app-REACT-NATIVE-/blob/master/working%20screen%20shots/git%20hub%20redirection.png" width="250">

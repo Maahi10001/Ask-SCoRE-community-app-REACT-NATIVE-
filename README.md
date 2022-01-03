@@ -31,7 +31,7 @@ This app aims to resolve queries by anyone in the organisation and let members c
 - Topic Specific Forum Threads
 - Stay updated with Medium and Github Activities
 
-#Technologies-used
+## Technologies-used
 
 -React-native
 -Firebase

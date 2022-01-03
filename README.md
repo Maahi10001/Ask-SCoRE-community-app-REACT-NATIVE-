@@ -30,7 +30,9 @@ This app aims to resolve queries by anyone in the organisation and let members c
 - User can ask Query and Answer others
 - Topic Specific Forum Threads
 - Stay updated with Medium and Github Activities
-##Technologies-used
+
+#Technologies-used
+
 -React-native
 -Firebase
 -Java-script

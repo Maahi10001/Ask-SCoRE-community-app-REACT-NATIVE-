@@ -30,6 +30,12 @@ This app aims to resolve queries by anyone in the organisation and let members c
 - User can ask Query and Answer others
 - Topic Specific Forum Threads
 - Stay updated with Medium and Github Activities
+##Technologies-used
+-React-native
+-Firebase
+-Java-script
+-Java
+-Objective-c
 ## Screenshots
 <p>
   <img src="https://github.com/Maahi10001/Ask-SCoRE-community-app-REACT-NATIVE-/blob/master/working%20screen%20shots/intro%201.png" width="250">
